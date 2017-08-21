@@ -3,3 +3,6 @@ when i want to add only few changes or add few files.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 because we dont want very small changes to be pulled back everytime there is a small corrections, which might lead to more memory consumption.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks is making a copy of someone's repository into our own github, clones are used to make a copy of our's or someone's repository to copy into our local system, and branches are used to create a different version of the same file, for example like an experiment purpose.
